@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "DREAMLIKE",
+  "base_artist": "IZ*ONE (아이즈원)",
+  "createdAt": "2026-02-11T07:30:39.148979Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreamlike State",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/01_Dreamlike_State_Erasure.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreamlike State (7\" Acappella Mix) [2019 - Remaster]",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/02_Dreamlike_State_(7__Acappella_Mix)_[2019_-_Remaster]_Erasure.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dreamlike State (The 12 Hour Technicolor Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/03_Dreamlike_State_(The_12_Hour_Technicolor_Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dreamlike State (The 24 Hour Technicolor Mix)",
+      "artist": "Erasure",
+      "has_synced": false,
+      "path": "select/04_Dreamlike_State_(The_24_Hour_Technicolor_Mix)_Erasure.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dreamlike and On the Rush",
+      "artist": "The New Pornographers",
+      "has_synced": true,
+      "path": "select/05_Dreamlike_and_On_the_Rush_The_New_Pornographers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dreamlike I Wander",
+      "artist": "Carole King",
+      "has_synced": true,
+      "path": "select/06_Dreamlike_I_Wander_Carole_King.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DREAMLIKE",
+      "artist": "IZ*ONE",
+      "has_synced": true,
+      "path": "select/07_DREAMLIKE_IZ_ONE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DREAMLIKE",
+      "artist": "IZ*ONE (아이즈원)",
+      "has_synced": true,
+      "path": "select/08_DREAMLIKE_IZ_ONE_(아이즈원).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dreamlike",
+      "artist": "Dead By April",
+      "has_synced": true,
+      "path": "select/09_Dreamlike_Dead_By_April.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dreamlike",
+      "artist": "Vacationer",
+      "has_synced": true,
+      "path": "select/10_Dreamlike_Vacationer.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DREAMLIKE",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_DREAMLIKE_IZ_ONE.txt"
+    }
+  ]
+}
